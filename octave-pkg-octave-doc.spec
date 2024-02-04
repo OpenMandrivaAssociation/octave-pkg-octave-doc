@@ -2,7 +2,7 @@
 
 Summary:	Octave Package Documentation
 Name:		octave-pkg-octave-doc
-Version:	0.5.2
+Version:	0.5.3
 Release:	1
 License:	GPLv3+
 Group:		Sciences/Mathematics
