@@ -2,7 +2,7 @@
 
 Summary:	Octave Package Documentation
 Name:		octave-pkg-octave-doc
-Version:	0.6.0
+Version:	0.7.3
 Release:	1
 License:	GPLv3+
 Group:		Sciences/Mathematics
@@ -31,7 +31,7 @@ Octave Package Documentation
 #---------------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n %{octpkg}-release-%{version}
+%autosetup -p1 -n pkg-octave-doc-release-0.7.3
 
 %build
 %octave_pkg_build
